@@ -1,0 +1,259 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "reverseStringl",
+      "request": "launch",
+      "mainClass": "Algo14daysleetcode.reverseStringl",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "moveZeroesl",
+      "request": "launch",
+      "mainClass": "Algo14daysleetcode.moveZeroesl",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "moveZeroes",
+      "request": "launch",
+      "mainClass": "Algo14daysleetcode.moveZeroes",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "twoSum2",
+      "request": "launch",
+      "mainClass": "Algo14daysleetcode.twoSum2",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "squaresOfSortedArray",
+      "request": "launch",
+      "mainClass": "squaresOfSortedArray",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "firstUniqueChar",
+      "request": "launch",
+      "mainClass": "firstUniqueChar",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "D1SearchInserPostion",
+      "request": "launch",
+      "mainClass": "Algo14daysleetcode.D1SearchInserPostion",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "D1BinarySearch",
+      "request": "launch",
+      "mainClass": "Algo14daysleetcode.D1BinarySearch",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "bestTimetobuyandbestTimetoSell",
+      "request": "launch",
+      "mainClass": "bestTimetobuyandbestTimetoSell",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "mergeSortedArray",
+      "request": "launch",
+      "mainClass": "mergeSortedArray",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "MissingNumber",
+      "request": "launch",
+      "mainClass": "leetcode_problems.MissingNumber",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "cyclicSort",
+      "request": "launch",
+      "mainClass": "cyclicSort",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "cyclicSort",
+      "request": "launch",
+      "mainClass": "SortingAlgos.cyclicSort",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch validAnagram",
+      "request": "launch",
+      "mainClass": "validAnagram",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch ransonNote",
+      "request": "launch",
+      "mainClass": "ransonNote",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch validSudoku",
+      "request": "launch",
+      "mainClass": "validSudoku",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch intersectionOfArray2",
+      "request": "launch",
+      "mainClass": "intersectionOfArray2",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch intersectionOfTwoArrays",
+      "request": "launch",
+      "mainClass": "intersectionOfTwoArrays",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch searchA2DMatrix",
+      "request": "launch",
+      "mainClass": "searchA2DMatrix",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch maximumArrayD1",
+      "request": "launch",
+      "mainClass": "maximumArrayD1",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch twoSumLeetcode",
+      "request": "launch",
+      "mainClass": "twoSumLeetcode",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch P1ContainsDuplicate",
+      "request": "launch",
+      "mainClass": "P1ContainsDuplicate",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch bubbleSort",
+      "request": "launch",
+      "mainClass": "SearchingAlgos.bubbleSort",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch rowCol2DArray",
+      "request": "launch",
+      "mainClass": "rowCol2DArray",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch findinInfiniteSortedArray",
+      "request": "launch",
+      "mainClass": "leetcode_problems.findinInfiniteSortedArray",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch FirstLastPosition",
+      "request": "launch",
+      "mainClass": "leetcode_problems.FirstLastPosition",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch smallestLetter",
+      "request": "launch",
+      "mainClass": "smallestLetter",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch CeilingOfANumber",
+      "request": "launch",
+      "mainClass": "CeilingOfANumber",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch orderAgnosticsBS",
+      "request": "launch",
+      "mainClass": "binarySearch.orderAgnosticsBS",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch binarySearch",
+      "request": "launch",
+      "mainClass": "binarySearch",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArrayElementEvenOrOdd",
+      "request": "launch",
+      "mainClass": "leetcode_problems.ArrayElementEvenOrOdd",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch RichestCustomerWealth",
+      "request": "launch",
+      "mainClass": "leetcode_problems.RichestCustomerWealth",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch linearSearch",
+      "request": "launch",
+      "mainClass": "linearSearch",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch min_max",
+      "request": "launch",
+      "mainClass": "min_max",
+      "projectName": "DSA+CP_1a2fe6bf"
+    }
+  ]
+}
