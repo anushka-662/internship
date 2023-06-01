@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "doublyLInkedListDLL",
+      "request": "launch",
+      "mainClass": "doublyLInkedListDLL",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "basicsLinkedList",
+      "request": "launch",
+      "mainClass": "basicsLinkedList",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "mergeIntervals1",
+      "request": "launch",
+      "mainClass": "mergeIntervals1",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "sortColors1",
+      "request": "launch",
+      "mainClass": "sortColors1",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "majorityElement1",
+      "request": "launch",
+      "mainClass": "majorityElement1",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
+      "name": "singleNumber1",
+      "request": "launch",
+      "mainClass": "singleNumber1",
+      "projectName": "DSA+CP_1a2fe6bf"
+    },
+    {
+      "type": "java",
       "name": "reverseStringl",
       "request": "launch",
       "mainClass": "Algo14daysleetcode.reverseStringl",
