@@ -12,7 +12,7 @@ public class Arr1 {
         int i=0;
         int j=i+1;
         if(nums[i]==nums[j]){
-            nums=ArrayUtils.remove
+            nums=ArrayUtils.removell
         }
         
     }
